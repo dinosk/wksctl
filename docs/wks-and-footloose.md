@@ -12,7 +12,7 @@
 1. Pick a backend of your choice:
 
    1. `docker` (not real VMs, but can be used on Mac)
-   2. `ignite` (requires [Ignite](https://ignite.readthedocs.org) to be installed, and KVM functioning)
+   2. `ignite` (requires [Ignite](https://ignite.readthedocs.org-completely-broken-link) to be installed, and KVM functioning)
 
    ```console
    export BACKEND=docker
