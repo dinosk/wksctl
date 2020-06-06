@@ -1,0 +1,7 @@
+{
+  "kind": "yaml",
+  "category": "CNI",
+  "name": "cilium",
+  "description": "cilium CNI plugin",
+  "entryPoint": "cilium.yaml"
+}

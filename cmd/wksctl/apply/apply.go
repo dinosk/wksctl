@@ -57,7 +57,7 @@ func init() {
 	Cmd.Flags().StringVar(&globalParams.configDirectory, "config-directory", ".", "Directory containing configuration information for the cluster")
 	Cmd.Flags().StringVar(&globalParams.namespace, "namespace", manifest.DefaultNamespace, "namespace override for WKS components")
 	Cmd.Flags().BoolVar(&globalParams.useManifestNamespace, "use-manifest-namespace", false, "use namespaces from supplied manifests (overriding any --namespace argument)")
-	Cmd.Flags().StringSliceVar(&globalParams.addonNamespaces, "addon-namespace", []string{"weave-net=kube-system"}, "override namespace for specific addons")
+	Cmd.Flags().StringSliceVar(&globalParams.addonNamespaces, "addon-namespace", []string{"weave-net=kube-system", "cilium=kube-system"}, "override namespace for specific addons")
 
 	// Hide controller-image flag as it is a helper/debug flag.
 	Cmd.Flags().StringVar(&globalParams.controllerImage, "controller-image", "", "Controller image override")

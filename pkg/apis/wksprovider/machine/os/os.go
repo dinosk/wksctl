@@ -293,7 +293,7 @@ func (o OS) CreateSeedNodeSetupPlan(params SeedNodeParams) (*plan.Plan, error) {
 	b.AddResource("kubeadm:init", kubeadmInitResource, plan.DependOn("install:k8s"))
 
 	// TODO(damien): Add a CNI section in cluster.yaml once we support more than one CNI plugin.
-	const cni = "weave-net"
+	const cni = "cilium"
 
 	cniAdddon := baremetalspecv1.Addon{Name: cni}
 
