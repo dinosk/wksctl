@@ -1,0 +1,7 @@
+{
+  "kind": "yaml",
+  "category": "CNI",
+  "name": "calico",
+  "description": "calico CNI plugin",
+  "entryPoint": "calico.yaml"
+}
