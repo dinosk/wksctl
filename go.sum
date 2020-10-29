@@ -173,8 +173,10 @@ github.com/denverdino/aliyungo v0.0.0-20190125010748-a747050bb1ba/go.mod h1:dV8l
 github.com/dgrijalva/jwt-go v0.0.0-20170104182250-a601269ab70c/go.mod h1:E3ru+11k8xSBh+hMPgOLZmtrrCbhqsmaPHjLKYnJCaQ=
 github.com/dgrijalva/jwt-go v3.2.0+incompatible/go.mod h1:E3ru+11k8xSBh+hMPgOLZmtrrCbhqsmaPHjLKYnJCaQ=
 github.com/dgryski/go-sip13 v0.0.0-20181026042036-e10d5fee7954/go.mod h1:vAd38F8PWV+bWy6jNmig1y/TA+kYO4g3RSRF0IAv0no=
-github.com/dinosk/cluster-api-provider-existinginfra v0.0.3-0.20201029112619-a2590c91f4f0 h1:if9QIx7sNt7M3/RNJJIMafsGjpYMYWI41HlUhCcKsac=
-github.com/dinosk/cluster-api-provider-existinginfra v0.0.3-0.20201029112619-a2590c91f4f0/go.mod h1:nnqvEposdqHGD1tap7bSMa4WzC00mq9EoWgbzfF6Ahs=
+github.com/dinosk/cluster-api-provider-existinginfra v0.0.3-0.20201029185808-9eff130d3914 h1:b/ZP68ClOSjflNbtEmIdocRsL2c764aNca6wJ77lgQs=
+github.com/dinosk/cluster-api-provider-existinginfra v0.0.3-0.20201029185808-9eff130d3914/go.mod h1:nnqvEposdqHGD1tap7bSMa4WzC00mq9EoWgbzfF6Ahs=
+github.com/dinosk/cluster-api-provider-existinginfra v0.0.3-0.20201029192144-81117711086f h1:1t3N3ah14zA0VttbTVFvEI8PHXuDuIctGzulP26fabM=
+github.com/dinosk/cluster-api-provider-existinginfra v0.0.3-0.20201029192144-81117711086f/go.mod h1:nnqvEposdqHGD1tap7bSMa4WzC00mq9EoWgbzfF6Ahs=
 github.com/dlespiau/kube-test-harness v0.0.0-20200706152414-7c811932d687 h1:z6iWYFLFkA0MQLEhqJTKvPG/UOlMqBzvg2mxdhPoBKk=
 github.com/dlespiau/kube-test-harness v0.0.0-20200706152414-7c811932d687/go.mod h1:gijoa02t4uXA4xtzIvZfNx+qQFkktIxp8apEQ/nsm/o=
 github.com/dnaeon/go-vcr v1.0.1/go.mod h1:aBB1+wY4s93YsC3HHjMBMrwTj2R9FHDzUr9KyGc8n1E=
