@@ -2,6 +2,7 @@ package apply
 
 import (
 	"bytes"
+	"fmt"
 	"io/ioutil"
 	"path/filepath"
 	"strings"
@@ -195,6 +196,7 @@ func (a *Applier) initiateCluster(clusterManifestPath, machinesManifestPath stri
 	if err != nil {
 		return errors.Wrap(err, "failed to annotate cluster manifest: ")
 	}
+	fmt.Println("Unparsed Cluster: ", string(clusterManifest))
 
 	machinesManifest, err := ioutil.ReadFile(machinesManifestPath)
 	if err != nil {
