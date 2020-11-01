@@ -200,6 +200,8 @@ github.com/dinosk/cluster-api-provider-existinginfra v0.0.3-0.20201101165733-2f5
 github.com/dinosk/cluster-api-provider-existinginfra v0.0.3-0.20201101165733-2f57ab8138c9/go.mod h1:nnqvEposdqHGD1tap7bSMa4WzC00mq9EoWgbzfF6Ahs=
 github.com/dinosk/cluster-api-provider-existinginfra v0.0.3-0.20201101173519-a96bf3ca2d5c h1:dOOrKfPH0f39VZag3H+5cI+bVrjlrr+fZ8c5sMmfkjg=
 github.com/dinosk/cluster-api-provider-existinginfra v0.0.3-0.20201101173519-a96bf3ca2d5c/go.mod h1:nnqvEposdqHGD1tap7bSMa4WzC00mq9EoWgbzfF6Ahs=
+github.com/dinosk/cluster-api-provider-existinginfra v0.0.3-0.20201101183843-b7fb69892cb2 h1:dcqDk8TiC1eAzo2Nso5+R1YoaZhRdHXzpAbaozfERq4=
+github.com/dinosk/cluster-api-provider-existinginfra v0.0.3-0.20201101183843-b7fb69892cb2/go.mod h1:nnqvEposdqHGD1tap7bSMa4WzC00mq9EoWgbzfF6Ahs=
 github.com/dlespiau/kube-test-harness v0.0.0-20200706152414-7c811932d687 h1:z6iWYFLFkA0MQLEhqJTKvPG/UOlMqBzvg2mxdhPoBKk=
 github.com/dlespiau/kube-test-harness v0.0.0-20200706152414-7c811932d687/go.mod h1:gijoa02t4uXA4xtzIvZfNx+qQFkktIxp8apEQ/nsm/o=
 github.com/dnaeon/go-vcr v1.0.1/go.mod h1:aBB1+wY4s93YsC3HHjMBMrwTj2R9FHDzUr9KyGc8n1E=
